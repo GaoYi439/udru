@@ -1,4 +1,7 @@
 # udru
+[IJCAI'24] Unlearning From Weakly Supervised Learning (the appendix is shown in the .pdf file)
+
+This code gives the implementation of the paper "Unlearning From Weakly Supervised Learning".
 
 Requirements
 - Python >=3.9
