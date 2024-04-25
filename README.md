@@ -1,5 +1,5 @@
 # udru
-[IJCAI'24] Unlearning From Weakly Supervised Learning (the appendix is shown in the .pdf file)
+[IJCAI'24] Unlearning From Weakly Supervised Learning
 
 This code gives the implementation of the paper "Unlearning From Weakly Supervised Learning".
 
