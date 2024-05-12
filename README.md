@@ -10,6 +10,8 @@ Requirements
 ---
 main.py
   >This is main function. After running the code, you would see a directory with the results saved in the same directory.
+appenix.pdf
+>The proof of the paper.
 
   
 ## Running
